@@ -22,8 +22,7 @@ print("\n\n--- Exercise 2: places, a dictionary with lists ---")
 
 
 
-import json
-from pip._vendor import requests
+import json, requests
 
 # here is a collection of free apis
 # https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/

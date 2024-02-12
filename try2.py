@@ -9,9 +9,7 @@ on a server that stores data.
 '''
 
 
-import json
-from pip._vendor import requests
-
+import json, requests
 
 print("\n--- part 1: agify, a dictionary ---")
 url = 'https://api.agify.io/?name=' + 'TODO'
