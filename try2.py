@@ -9,7 +9,8 @@ on a server that stores data.
 '''
 
 
-import json, requests
+import json
+from pip._vendor import requests
 
 
 print("\n--- part 1: agify, a dictionary ---")

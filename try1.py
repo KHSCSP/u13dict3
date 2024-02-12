@@ -41,10 +41,10 @@ print("here's how many have speed = 3:")
 
 print("\n\n--- a dictionary with lists ---")
 favs = {
-  'jen': ['python', 'c'],
-  'sarah': ['c'],
-  'edward': ['ruby', 'go'],
-  'phil': ['python', 'haskell']
+    'jen': ['python', 'c'],
+    'sarah': ['c'],
+    'edward': ['ruby', 'go'],
+    'phil': ['python', 'haskell']
 }
 
 # display the full info
