@@ -41,7 +41,7 @@ print("type of data:", )
 print("response:")
 
 
-# get specific information
+# get specific information, dig deep!!
 
 
 
