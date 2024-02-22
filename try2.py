@@ -72,6 +72,9 @@ print("the joke:")
 
 
 
+print("\n\n--- part 4: multiple requests ---")
+# make a list of 10 requests
+
 
 
 # create a list of jokes with 'dog' in the description
@@ -84,9 +87,6 @@ print("\nhere are the dog jokes:", dog_jokes)
 
 
 
-print("\n\n--- part 4: multiple requests ---")
-# make a list of 10 requests
 
 
 
-# make a list of only the 'joke'
