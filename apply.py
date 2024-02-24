@@ -26,11 +26,10 @@ import json, requests
 
 # here is a collection of free apis
 # https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
-# choose at least 3
+# choose at least 2
 # 'experiment' in chrome
 # then write code to 'get' a response
 # and display the response in a readable way
-
 
 print("\n--- Exercise 3: API #1 ---")
 # getting the response
