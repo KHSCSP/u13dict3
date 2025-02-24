@@ -14,7 +14,12 @@ print("here's how many have been created:")
 print("here's the first 5:")
 
 
-# print the full info
+# loop a couple of ways
+print("\n...looping...")
+
+
+# print some detailed info for one
+# practice [] and .get
 
 
 
@@ -47,14 +52,15 @@ favs = {
     'phil': ['python', 'haskell']
 }
 
-# display the full info
-# TODO
+
+# try a loop a couple of ways
 
 
 
-  
-  
-  
+# print some detailed info for one
+# practice [] and .get
+
+
   
   
 
