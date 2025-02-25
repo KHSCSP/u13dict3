@@ -8,7 +8,7 @@ information is exchanged on the internet through API endpoints
 on a server that stores data.
 '''
 
-
+# TODO 1 - run, you may need to change the python interpreter (bottom right)
 import json, requests
 
 print("\n--- part 1: agify, a dictionary ---")
@@ -21,11 +21,13 @@ print("response:")
 print("just the predicted age:")
 
 
+
 # displaying useful info
 print("\nthe best info:")
 
 
 
+# TODO - look at the documentation https://agify.io/documentation
 
 
 
@@ -52,8 +54,13 @@ print("\nthe best info:")
 
 
 
+# TODO look at the documentation https://nationalize.io/documentation
 
 
+
+
+
+# TODO look at the documentation https://icanhazdadjoke.com/api 
 
 print("\n\n--- part 3: dad joke, a dictionary ---")
 url = 'https://icanhazdadjoke.com/'
