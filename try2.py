@@ -8,7 +8,7 @@ information is exchanged on the internet through API endpoints
 on a server that stores data.
 '''
 
-# TODO 1 - run, you may need to change the python interpreter (bottom right)
+# TODO 1 - run, you may need to pip install requests
 import json, requests
 
 print("\n--- part 1: agify, a dictionary ---")
