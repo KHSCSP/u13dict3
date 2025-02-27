@@ -20,8 +20,9 @@ print("\n...looping...")
 
 # print some detailed info for one
 # practice [] and .get
-
-
+print("\nfor example:")
+print("for example:")
+print("for example:")
 
 # change the first 3 to yellow, medium, 10 point
 # TODO
@@ -35,6 +36,7 @@ print("here's the first 5 now:")
 
 
 # loop through, count how many have speed = 3
+print("\ncounting...")
 # TODO
 print("here's how many have speed = 3:")
 
